@@ -23,7 +23,9 @@ tmp/
 .cache/
 
 # Git transfer artifacts (built for moving this repo, not part of it)
+# Named individually: soul_land_starter.zip is a real project file and must stay tracked.
 *.bundle
+/soul_land_projects.zip
 
 # Never commit credentials
 .git-credentials
