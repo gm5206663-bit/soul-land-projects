@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local/temp
+*.tmp
+*.bak
+*~
+tmp/
+.cache/
+
+# Never commit credentials
+.git-credentials
+.netrc
+*.pem
+*.key
+secrets.*
+.env
+
+# Node (if any project grows one)
+node_modules/
