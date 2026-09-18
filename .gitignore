@@ -22,6 +22,9 @@ Thumbs.db
 tmp/
 .cache/
 
+# Git transfer artifacts (built for moving this repo, not part of it)
+*.bundle
+
 # Never commit credentials
 .git-credentials
 .netrc
