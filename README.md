@@ -15,11 +15,17 @@ rights holders. Nothing here is official, and nothing here is for sale.
 |---|---|---|
 | [`SOUL_LAND_UNIVERSAL_KIT/`](SOUL_LAND_UNIVERSAL_KIT/) | A portable, era-agnostic authoring kit — world canon, story law, prose law, audit gates, templates, and a working verification script | **Complete, verified** |
 | [`blue_silver/`](blue_silver/) | *Blue Silver* — a pre-canon serial about a Blue Silver Emperor grass named Home. 15 chapters, ~33,100 words, Book One complete | **Book One complete** |
-| [`sl4_fire_phoenix/`](sl4_fire_phoenix/) | *Fire Phoenix* — an SL4-era serial, Yan Shuo'er, Lan Xuanyu's cohort | In progress (edge: Ch31) |
+| ~~`sl4_fire_phoenix/`~~ → [`_archive/2026-09-19_stale_sl4_copy_at_ch31/`](_archive/2026-09-19_stale_sl4_copy_at_ch31/) | *Fire Phoenix* — Yan Shuo'er, Lan Xuanyu's cohort. ⛔ **ARCHIVED 2026-09-19:** this copy was stale at Ch31 and byte-identical to a copy already archived in `soul-land-universal-kit` (172/172 files, zero unique content). The live project is at **Ch51** in the private repo `gm5206663-bit/soul_land_4_fire_phoenix` | Superseded — do not read |
 | [`SOUL_LAND_NEW/`](SOUL_LAND_NEW/) | An earlier separate OC project, and the franchise-neutral craft base the kit extends | Reference |
 | [`reference/sl3_lin_hao/`](reference/sl3_lin_hao/) | An SL3-era project, kept for reference | Reference |
 | [`soul_land_starter/`](soul_land_starter/) | A scaffold for starting a new serial | Scaffold |
 | [`uploads/`](uploads/) | Incoming handoff packs and working files from earlier sessions | Archive |
+
+> **`_archive/` — DO NOT USE.** Added 2026-09-19. Holds superseded material that must never be
+> read as current. `_archive/2026-09-19_stale_sl4_copy_at_ch31/` is the stale Chapter-31 copy of
+> Soul Land 4 Fire Phoenix; the project itself is at Chapter 51 elsewhere. Moved by `git mv` —
+> 172 renames, all `R100`, zero deletions, zero content changes. Each directory carries a
+> `README_STALE_ARCHIVED.md`.
 
 ---
 
