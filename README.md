@@ -14,6 +14,7 @@ rights holders. Nothing here is official, and nothing here is for sale.
 | Path | What it is | State |
 |---|---|---|
 | [`SOUL_LAND_UNIVERSAL_KIT/`](SOUL_LAND_UNIVERSAL_KIT/) | A portable, era-agnostic authoring kit — world canon, story law, prose law, audit gates, templates, and a working verification script | **Complete, verified** |
+| [`seed_of_creation/`](seed_of_creation/) | *Seed of Creation* — an SL2.5-era serial: the son of the God of Destruction and the Goddess of Life, sealed and fallen to Douluo when the Divine Realm is swept away | **Foundation — scaffolded, four rulings pending, no chapters** |
 | [`blue_silver/`](blue_silver/) | *Blue Silver* — a pre-canon serial about a Blue Silver Emperor grass named Home. 15 chapters, ~33,100 words, Book One complete | **Book One complete** |
 | ~~`sl4_fire_phoenix/`~~ → [`_archive/2026-09-19_stale_sl4_copy_at_ch31/`](_archive/2026-09-19_stale_sl4_copy_at_ch31/) | *Fire Phoenix* — Yan Shuo'er, Lan Xuanyu's cohort. ⛔ **ARCHIVED 2026-09-19:** this copy was stale at Ch31 and byte-identical to a copy already archived in `soul-land-universal-kit` (172/172 files, zero unique content). The live project is at **Ch51** in the private repo `gm5206663-bit/soul_land_4_fire_phoenix` | Superseded — do not read |
 | [`SOUL_LAND_NEW/`](SOUL_LAND_NEW/) | An earlier separate OC project, and the franchise-neutral craft base the kit extends | Reference |
@@ -105,6 +106,15 @@ Stated plainly rather than buried:
   agreement. They are the weakest thing in the kit and are labelled as such.
 - Superseded directories are bannered rather than deleted. Nothing here has been quietly
   rewritten; corrections are stamped with what they replaced.
+- The kit's `01_CANON_SPINE.md` is **SL1-weighted**. `seed_of_creation/` works in the SL2.5 era,
+  which that file does not describe, so the project carries its own era receipts in
+  [`seed_of_creation/foundation/CANON_NOTES.md`](seed_of_creation/foundation/CANON_NOTES.md),
+  flags its seven single-source rows by name rather than letting them carry plot, and states plainly
+  that its DC anchor is **derived arithmetic with a ±25-year margin**, not a canon date.
+- That same project records a premise collision rather than hiding it: canon states, in the God
+  of Destruction's own quoted words, that he and the Goddess of Life cannot have a child — and
+  the protagonist is their son. It is logged as a user ruling over canon, with the cost written
+  down, and the story is built on the contradiction instead of around it.
 
 ---
 

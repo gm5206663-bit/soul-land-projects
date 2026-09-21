@@ -42,3 +42,27 @@ Star Dou Forest, deep era). This is the live build. 搭档 chose it directly whe
   nowhere names it). The wire to the Empress is at full strength (her presence pools there; her
   body is deeper toward the core). **Next: the valley itself, then the staged A Yin meeting** (the
   near next beat, before her rooted era ends ~2610s).
+
+## NEW PROJECT OPENED (2026-09-18) — seed_of_creation/
+**`seed_of_creation/`** (repo root) — a NEW Soul Land serial, scaffolded only. Era: **SL2.5**
+(Legend of the Divine Realm) running into the ten-thousand-year gap before SL3. Protagonist: the
+son of the God of Destruction (Hui Mie) and the Goddess of Life (Sheng Ming) — a child canon
+explicitly says cannot exist — a god from birth, sealed, holding Divine Adaptation Talent, fallen
+to Douluo in the same event-window canon sends the infant Tang Wulin down.
+
+| Path | What it is | Status |
+|---|---|---|
+| `seed_of_creation/` | The new SL2.5 serial | **FOUNDATION — 14 files, no chapters. Four user rulings pending** |
+
+- **Nothing is drafted and nothing may be drafted** until Lock 4 (the spine) is ruled on. Three
+  candidate spines, each written as a full sentence with its cost, are in
+  `seed_of_creation/foundation/OPEN_DECISIONS.md` §1. Name, landing place and ring mechanism are
+  §2–§4 of the same file.
+- **`blue_silver/` is NOT superseded and is not paused by this.** Both are the user's. This entry
+  records a new project; it does not redirect the work. Rule 1 still holds: the user's word
+  outranks any file on disk, including this one.
+- `blue_silver/ADAPTATION_TALENT.md` is the **locked universal Master Foundation**. The new
+  project adds a module *beneath* it at `seed_of_creation/bible/ADAPTATION_TALENT_MODULE.md` and
+  never amends the core (Master §76). The new project's module is craft-separate from Blue
+  Silver's module: nothing from `blue_silver/` is canon for it.
+- Start at `seed_of_creation/HANDOFF.md`. It says which files win when two disagree.
