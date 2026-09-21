@@ -1,5 +1,13 @@
 # TOP-LEVEL STATE — read this first (updated 2026-09-08, 2nd correction)
 
+> **UPDATE 2026-09-21 (housekeeping audit):** this file is dated **2026-09-08** and is kept as history. It was
+> inherited from the shared workspace when Blue Silver was the only active serial. What is true now: Blue
+> Silver's Book One is complete (`blue_silver/HANDOFF.md`), Fire Phoenix lives in its own private
+> repository (live edge after Chapter52), and the devouring-dragon serial lives in the
+> `soul-land-universal-kit` repository. The directory table in this repository's `README.md` is the
+> current map of what is here. The rules below still stand: the user's word outranks any file, and
+> never delete user work.
+
 ## THE CURRENT PROJECT — confirmed by 搭档
 **`/home/user/blue_silver/`** — the Blue Silver serial (pre-SL1 Blue Silver Grass OC,
 Star Dou Forest, deep era). This is the live build. 搭档 chose it directly when asked
