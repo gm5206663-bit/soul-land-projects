@@ -1,5 +1,14 @@
 # Soul Land Projects
 
+> ⛔ **ARCHIVED 2026-09-23 — READ-ONLY.**
+> This repository duplicated five paths of the live workspace byte-for-byte
+> (`SARA.md`, `SOUL_LAND_NEW/`, `blue_silver/`, `soul_land_starter/`,
+> `SOUL_LAND_UNIVERSAL_KIT/`) — exactly the two-copies staleness problem this
+> workspace's own laws warn about. The **live public workspace is
+> [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit)**.
+> Nothing was deleted; the repository is frozen as-is for provenance. Details:
+> `soul-land-universal-kit/README.md`, addition dated 2026-09-23.
+
 A working archive of original **Soul Land (Douluo Dalu)** fan fiction, plus the reusable
 authoring kit those serials were built with.
 
